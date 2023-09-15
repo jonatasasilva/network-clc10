@@ -12,7 +12,7 @@ region = "us-east-1"
     default_tags {
         tags = {
             Owner   = "Jonatas dos Anjos Silva"
-            Env     = "Prod"
+            Env     = "Producao"
             Class   = "CLC10"
         }
     }
